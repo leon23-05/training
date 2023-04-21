@@ -1,0 +1,147 @@
+body{
+  
+   background: rgba(223, 223, 223, 0.774); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 13px;
+   color: rgb(131, 131, 131);
+}
+
+
+#first_column{
+    margin-left: 200px;
+    background:white;
+    border: thin;
+    float: left;
+    border-radius: 10px;
+    padding-left: 20px;
+    width: 650px;
+    margin-top: 50px;
+}
+
+h3{
+  color: black;
+}
+
+#mail{
+  width: 320px;  
+  height: 30px; 
+  border-radius: 5px;
+  border-color:  rgb(230, 226, 226);
+  /* border-top-color:rgb(189, 183, 183); */
+}
+
+#mail:hover{
+  border-color: rgb(0, 89, 255);
+}
+#card{
+  width: 320px;  
+  height: 30px; 
+  border-radius: 5px;
+  border-color:  rgb(230, 226, 226);
+  /* border-top-color:rgb(189, 183, 183) ; */
+}
+
+#card:hover{
+  border-color: rgb(0, 89, 255);
+}
+
+#date{
+  float: left;
+  width: 150px;  
+  height: 30px; 
+  border-radius: 5px;
+  border-color:  rgb(230, 226, 226);
+}
+
+#date:hover{
+  border-color: rgb(0, 89, 255);
+}
+
+#cvv{
+  margin-left: 20px;
+  width: 150px;  
+  height: 30px; 
+  border-radius: 5px;
+  border-color:  rgb(230, 226, 226);
+  /* margin-bottom: 5%; */
+  
+}
+
+#cvv:hover{
+  border-color: rgb(0, 89, 255);
+}
+
+
+.promo{
+  padding-top: 30px;
+    color: black;
+    display: flex;
+    float: left;
+}
+
+.expiry{
+    float: left;
+    align-items: center;
+}
+span{
+    margin-left: 10%;
+    color: black;
+}
+
+.span1{
+  margin-left: 100px;
+}
+
+.span2{
+  margin-left: 78px;
+}
+
+.span3{
+  margin-left: 69px;
+}
+
+hr{
+  height: 2px;
+  background-color: rgb(230, 226, 226);
+  margin-right: 460px;
+  width: 320px;
+  border: none;
+}
+button
+{
+ 
+  background: #0f5cebe1;
+  border-radius: 5px;
+  width: 320px;
+  height: 30px;
+  margin-bottom: 20px;
+  border: none;
+  color: white;
+  font-size: 12px;
+}
+
+.cvv{
+  margin-left: 85px; 
+}
+
+/* .promo2{
+    color: black;
+} */
+
+.column{
+  height: 500px;
+  margin-top: 70px;
+  position: absolute;
+  margin-left: 580px;
+}
+
+.payment{
+  position: absolute;
+  top: 312px;
+  margin-left: 654px;
+  top: 65.5%;
+}
+
+.beta{
+  padding-bottom: 20px;
+}

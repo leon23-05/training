@@ -1,0 +1,60 @@
+body{
+    background:rgb(141, 138, 138);
+}
+header{
+    position: sticky;
+    background: #f58e8e;
+    top: 0%;
+    min-height: 80px;
+}
+
+nav{
+    margin-left: 19.5%;
+background-color: rgb(125, 173, 103);
+min-height: 80px;
+min-height: 40%;
+}
+
+section{
+    position: static;
+    position: fixed;
+    min-height: 80px;
+    min-height: 90%;
+    background-color: #4b4c4d;
+    top: 14.8%;
+}
+
+footer{
+    position: sticky;
+    top: 100%;
+    min-height: 80px;
+    background: #f7d885;
+    min-width: 98.6%;
+}
+
+aside{
+    margin-left: 19.5%;
+    min-height: 80px;
+    background-color: #ba8ae7;
+    min-height: 50%;
+}
+
+div{
+    background: #b0f18b;
+    min-height: 80px;
+    margin-left: 19.5%;
+}
+
+.div1{
+    position: absolute;
+    min-width: 500px;
+    background: rgb(1, 47, 173);
+    text-align: center;
+    padding-top: 10px;
+}
+
+.div2{
+    position: sticky;
+    min-width: 10px;
+    background: rgb(1, 47, 173);
+}

@@ -1,0 +1,43 @@
+.static{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 8%;
+    border: 1;
+    background: green;
+    float: top;
+}
+
+.relative{
+    width: 33.33%;
+    height: 94%;
+    border: 1;
+    background: rgb(64, 185, 233);
+    float: left;
+}
+
+.fixed{
+    width: 33.33%;
+    height: 94%;
+    border: 1;
+    background: orange;
+    float: left;
+}
+
+.absolute{
+    width: 33.3%;
+    height: 94%;
+    border: 1;
+    background-color: yellow;  
+    float: left;
+}
+
+.sticky{
+    position: absolute;
+    clear: both;
+    border: 1;
+    background: rgb(241, 49, 49);
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+}
